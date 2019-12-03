@@ -4,7 +4,7 @@
   "name": "Dory",
   "version": "1.0",
 
-  "description": "Help Adrian to don't do something stupid.",
+  "description": "Help Adrian not to do something stupid.",
 
   "icons": {
     "48": "icons/icon.png"
